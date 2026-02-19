@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Blender",
+  "base_artist": "Megaherz",
+  "createdAt": "2026-02-19T11:50:04.988760Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Blender",
+      "artist": "Yello",
+      "has_synced": true,
+      "path": "select/01_Blender_Yello.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Beacon n Blender",
+      "artist": "Da Mafia 6ix",
+      "has_synced": true,
+      "path": "select/02_Beacon_n_Blender_Da_Mafia_6ix.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Promise Blender",
+      "artist": "Skillet",
+      "has_synced": true,
+      "path": "select/03_Promise_Blender_Skillet.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "BLENDER",
+      "artist": "5 Seconds of Summer",
+      "has_synced": true,
+      "path": "select/04_BLENDER_5_Seconds_of_Summer.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Blender",
+      "artist": "L.S. Dunes",
+      "has_synced": true,
+      "path": "select/05_Blender_L.S._Dunes.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Blender",
+      "artist": "Megaherz",
+      "has_synced": false,
+      "path": "select/06_Blender_Megaherz.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fight Back (Blender Remix)",
+      "artist": "Neffex",
+      "has_synced": true,
+      "path": "select/07_Fight_Back_(Blender_Remix)_Neffex.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mirror (Blender Remix)",
+      "artist": "Neffex feat. BLENDER",
+      "has_synced": true,
+      "path": "select/08_Mirror_(Blender_Remix)_Neffex_feat._BLENDER.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mirror (Blender Remix)",
+      "artist": "NEFFEX",
+      "has_synced": false,
+      "path": "select/09_Mirror_(Blender_Remix)_NEFFEX.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Like a Face to a Blender",
+      "artist": "Thy Art Is Murder",
+      "has_synced": false,
+      "path": "select/10_Like_a_Face_to_a_Blender_Thy_Art_Is_Murder.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cherry Oh - Jr Blender Remix",
+      "artist": "Seeed",
+      "has_synced": false,
+      "path": "select/11_Cherry_Oh_-_Jr_Blender_Remix_Seeed.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rocks in a Blender",
+      "artist": "Combatwoundedveteran",
+      "has_synced": false,
+      "path": "select/12_Rocks_in_a_Blender_Combatwoundedveteran.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "25. Rocks In A Blender",
+      "artist": "Combatwoundedveteran",
+      "has_synced": false,
+      "path": "select/13_25._Rocks_In_A_Blender_Combatwoundedveteran.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Blender (Re-Touched 2021)",
+      "artist": "Yello",
+      "has_synced": true,
+      "path": "select/14_Blender_(Re-Touched_2021)_Yello.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sincerely Jane - Live at the Blender Theater",
+      "artist": "Janelle Monáe",
+      "has_synced": false,
+      "path": "select/15_Sincerely_Jane_-_Live_at_the_Blender_Theater_Janelle_Monáe.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sincerely Jane (Live at the Blender Theater)",
+      "artist": "Janelle Monáe",
+      "has_synced": true,
+      "path": "select/16_Sincerely_Jane_(Live_at_the_Blender_Theater)_Janelle_Monáe.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Violet Stars Happy Hunting! - Live at the Blender Theater",
+      "artist": "Janelle Monáe",
+      "has_synced": true,
+      "path": "select/17_Violet_Stars_Happy_Hunting!_-_Live_at_the_Blender_Theater_Janelle_Monáe.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Blender",
+      "artist": "Megaherz",
+      "has_synced": false,
+      "path": "select/pl_01_Blender_Megaherz.txt"
+    }
+  ]
+}
